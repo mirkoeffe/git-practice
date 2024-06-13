@@ -1,3 +1,4 @@
 Name: Mirko
 Age: 32
-Favourite color: Orange
+Favorite color: Orange
+City: Berlin
